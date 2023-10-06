@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>This is a test page</h1>
+<h2>Please read the below line</h2>
 <p>This section will show you how to deploy project from GitHub to Jenkins on Cloud</p>
 </body>
 </html>
