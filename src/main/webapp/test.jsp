@@ -7,7 +7,7 @@
 <title>Test Cases</title>
 </head>
 <body>
-<p>This is a test page</p>
-<h1>This section will show you how to deploy project from GitHub to Jenkins on Cloud</h1>
+<h1>This is a test page</h1>
+<p>This section will show you how to deploy project from GitHub to Jenkins on Cloud</p>
 </body>
 </html>
