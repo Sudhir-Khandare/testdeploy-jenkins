@@ -4,11 +4,10 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>About Page</title>
+<title>Test Cases</title>
 </head>
 <body>
-<h1>This is about page</h1>
-<p>Hi please log in about page</p>
-<a href="test.jsp">Test Page</a>
+<p>This is a test page</p>
+<h1>This section will show you how to deploy project from GitHub to Jenkins on Cloud</h1>
 </body>
 </html>
